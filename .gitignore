@@ -1,0 +1,9 @@
+*~
+*.swp
+*.swo
+*.bak
+v8.log
+
+*.patch
+.svim
+
